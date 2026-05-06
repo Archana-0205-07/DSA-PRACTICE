@@ -1,3 +1,12 @@
+// Problem: Maximum Frequency Element
+// Platform:Hive
+// Approach: Use HashMap to store frequencies, then find element with maximum frequency
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
+
+
+
 import java.util.*;
 public class Maxfreq{
 public static void main(String[] args){
