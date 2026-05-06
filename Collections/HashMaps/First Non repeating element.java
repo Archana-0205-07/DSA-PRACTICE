@@ -1,3 +1,11 @@
+// Problem: First Non-Repeating Element
+// Platform: Hive/GFG
+// Approach: Use HashMap to store frequency, then traverse to find first element with frequency = 1
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
+
+
 import java.util.*;
 public class FirstNonrepeat{
 public static void main(String[] args){
