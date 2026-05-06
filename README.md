@@ -29,3 +29,14 @@ This repository contains my **daily DSA practice**.
 - Striver A2Z DSA Sheet
 
 ---
+
+
+## 📅 Progress
+
+### Day 1 - HashMaps
+
+| Problem | Status |
+|--------|--------|
+| First Non-Repeating Element | ✅ |
+| Finding Frequency of Elements | ✅ |
+| Maximum Frequency Element | ✅ |
