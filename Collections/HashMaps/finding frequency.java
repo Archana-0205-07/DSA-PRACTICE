@@ -1,3 +1,11 @@
+// Problem: Finding Frequency of Elements
+// Platform: Hive
+// Approach: Use HashMap to count occurrences of each element
+// Time Complexity: O(n)
+// Space Complexity: O(n)
+
+
+
 import java.util.*;
 public class frequency{
 public static void main(String[] args){
