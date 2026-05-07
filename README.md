@@ -40,3 +40,15 @@ This repository contains my **daily DSA practice**.
 | First Non-Repeating Element | ✅ |
 | Finding Frequency of Elements | ✅ |
 | Maximum Frequency Element | ✅ |
+
+
+## Day 2 - Time and Space Complexity
+
+3 rules for TC:
+Calculate with worst case scenario
+Avoid Constants
+Avoid Lower values
+
+Space Complexity:
+1.Auxiliary space
+2.Input space
