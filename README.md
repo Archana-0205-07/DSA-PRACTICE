@@ -42,13 +42,27 @@ This repository contains my **daily DSA practice**.
 | Maximum Frequency Element | ✅ |
 
 
-## Day 2 - Time and Space Complexity
+## Day 2 - Time and Space Complexity  ✅
 
-3 rules for TC:
+3 rules for TC:  ✅
 Calculate with worst case scenario
 Avoid Constants
 Avoid Lower values
 
-Space Complexity:
+Space Complexity:  ✅
 1.Auxiliary space
 2.Input space
+
+
+## Day 3 - Patterns 
+Pattern 1  ✅
+Pattern 2  ✅
+Pattern 3  ✅
+Pattern 4  ✅
+Pattern 5  ✅
+Pattern 6  ✅
+Pattern 7  ✅
+
+
+
+
