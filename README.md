@@ -64,5 +64,12 @@ Pattern 6  ✅
 Pattern 7  ✅
 
 
+## Day 4 - Patterns 
+Pattern 8   ✅
+Pattern 9   ✅
+Pattern 10  ✅
+Pattern 11  ✅
+Pattern 12  ✅
+
 
 
