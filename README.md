@@ -75,5 +75,8 @@ Pattern 12  ✅
 Pattern 13  ✅
 Pattern 14  ✅
 
+# Day 6 -Patterns
+Pattern 15  ✅
+
 
 
