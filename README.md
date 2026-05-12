@@ -78,5 +78,15 @@ Pattern 14  ✅
 # Day 6 -Patterns
 Pattern 15  ✅
 
+## Day 7-Patterns
+Pattern 16  ✅
+Pattern 17  ✅
+Pattern 18  ✅
+Pattern 19  ✅
+Pattern 20  ✅
+Pattern 21  ✅
+Pattern 22  ✅
+
+
 
 
