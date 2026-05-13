@@ -88,5 +88,19 @@ Pattern 21  ✅
 Pattern 22  ✅
 
 
+## Day 8-Patterns
+ Java fundamentals(blogs)
+
+## Basic Maths for DSA--
+Digit extraction ✅
+Count digits     ✅
+Reverse number   ✅
+check Palindrome ✅
+Armstrong number ✅
+Printall divisors✅ -Brute force,optimal
+Prime numbers    ✅ -brute force,optimal
+
+
+
 
 
