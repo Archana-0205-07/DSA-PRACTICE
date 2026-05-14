@@ -101,6 +101,11 @@ Printall divisors✅ -Brute force,optimal
 Prime numbers    ✅ -brute force,optimal
 
 
+## Day 9-Basic Maths
+GCD/HCF  ✅ 
+Introduction to Recursions ✅
+
+
 
 
 
