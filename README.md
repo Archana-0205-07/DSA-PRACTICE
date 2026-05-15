@@ -107,6 +107,12 @@ GCD/HCF  ✅
 Recursions--
 Introduction to Recursions ✅
 
+## Day 10-Recursions
+Understand recursions by print something N times ✅
+Print Name N times using recursions ✅
+Print 1 to N using recursions ✅
+Print N to 1 using recursions ✅
+
 
 
 
