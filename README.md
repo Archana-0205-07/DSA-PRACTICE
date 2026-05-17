@@ -113,6 +113,9 @@ Print Name N times using recursions ✅
 Print 1 to N using recursions ✅
 Print N to 1 using recursions ✅
 
+## Day 11-Recursions
+Sum of first N numbers ✅
+Factorial of a given number ✅
 
 
 
