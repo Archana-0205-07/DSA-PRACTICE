@@ -117,6 +117,10 @@ Print N to 1 using recursions ✅
 Sum of first N numbers ✅
 Factorial of a given number ✅
 
+## Day 12-Recursiona
+Rverse an array ✅
+check if string is Palindrome or not✅
+
 
 
 
