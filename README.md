@@ -125,6 +125,7 @@ check if string is Palindrome or not✅
 Fibonacci number✅
 
 ## Day 14-Hashing
+Basics of Hashing
 
 
 
