@@ -127,6 +127,10 @@ Fibonacci number✅
 ## Day 14-Hashing
 Basics of Hashing
 
+## Day 15-Collections 
+ArrayList ✅
+Hashmap
+
 
 
 
