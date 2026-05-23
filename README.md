@@ -129,7 +129,7 @@ Basics of Hashing
 
 ## Day 15-Collections 
 ArrayList ✅
-Hashmap
+Hashmap ✅
 
 
 
