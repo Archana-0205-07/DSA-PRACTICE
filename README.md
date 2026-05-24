@@ -131,6 +131,10 @@ Basics of Hashing
 ArrayList ✅
 Hashmap ✅
 
+## Day 16-Hashing
+use of Hashing ✅
+Concepts in it ✅
+
 
 
 
