@@ -151,6 +151,17 @@ Linear(Separate) chaining ✅
 Open Addressing ✅
 
 
+## Day 18-Sorting -I
+Selection sort ✅
+select the minimum element of the array and swap it 
+TC: O(N*N)
+
+Bubble sort ✅
+find the maximum element and pushes it to last by adjacent swapping
+
+Insertion sort ✅
+take element and replaces it in the correct order 
+
 
 
 
