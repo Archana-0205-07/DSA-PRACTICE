@@ -167,8 +167,9 @@ take element and replaces it in the correct order
 Merge sort ✅
 divide and conquer approach
 use of recursion&backtracking ✅
-
 TC: O(N log N)
+
+Quick sort
 
 
 
