@@ -169,7 +169,15 @@ divide and conquer approach
 use of recursion&backtracking ✅
 TC: O(N log N)
 
-Quick sort
+Quick sort ✅
+TC: O(N logN)
+divide and conquer
+
+## Day 20-Arrays 
+Basic--
+Finding largest element ✅
+Finding second largest element ✅
+
 
 
 
