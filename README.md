@@ -178,6 +178,11 @@ Basic--
 Finding largest element ✅
 Finding second largest element ✅
 
+## Day 21-Arrays
+Basic--
+Check if Array is sorted ✅
+Remove duplicates from Array ✅
+
 
 
 
