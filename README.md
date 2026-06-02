@@ -183,6 +183,9 @@ Basic--
 Check if Array is sorted ✅
 Remove duplicates from sorted Array ✅
 revised arrays ✅
+Left rotate the array by one place✅
+Left rotate an array by D places ✅
+
 
 
 
