@@ -183,8 +183,11 @@ Basic--
 Check if Array is sorted ✅
 Remove duplicates from sorted Array ✅
 revised arrays ✅
+
+## Day 22-Arrays 
 Left rotate the array by one place✅
 Left rotate an array by D places ✅
+Move zeroes to end
 
 
 
