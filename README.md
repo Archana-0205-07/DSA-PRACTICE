@@ -189,6 +189,9 @@ Left rotate the array by one place✅
 Left rotate an array by D places ✅
 Move zeroes to end
 
+## Day 23-Arrays
+revised notes
+
 
 
 
