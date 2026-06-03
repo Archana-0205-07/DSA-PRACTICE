@@ -185,9 +185,10 @@ Remove duplicates from sorted Array ✅
 revised arrays ✅
 
 ## Day 22-Arrays 
+Basic--
 Left rotate the array by one place✅
 Left rotate an array by D places ✅
-Move zeroes to end
+Move zeroes to end✅
 
 ## Day 23-Arrays
 revised notes
