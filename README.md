@@ -195,6 +195,9 @@ revised notes
 
 ## Day 24-Arrays
 started revision of java fundamentals
+Left rotate an array by one place 
+Brute✅ 
+Better ✅
 Left rotate an array by D places 
 
 
