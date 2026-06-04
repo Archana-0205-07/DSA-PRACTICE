@@ -193,6 +193,10 @@ Move zeroes to end✅
 ## Day 23-Arrays
 revised notes
 
+## Day 24-Arrays
+started revision of java fundamentals
+Left rotate an array by D places 
+
 
 
 
