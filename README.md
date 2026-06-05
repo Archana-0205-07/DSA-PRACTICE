@@ -200,6 +200,14 @@ Brute✅
 Better ✅
 Left rotate an array by D places 
 
+## Day 25-Arrays
+slow progress in Arrays
+Left rotate array by D places 
+Brute✅
+TC: O(n+d)
+SC: O(d)
+Optimal
+
 
 
 
