@@ -206,7 +206,12 @@ Left rotate array by D places
 Brute✅
 TC: O(n+d)
 SC: O(d)
-Optimal
+## Day 26-Arrays
+Optimal✅
+TC:O(2n)
+SC:O(1)
+finally done with rotation of arrays 
+right rotate array by D places
 
 
 
