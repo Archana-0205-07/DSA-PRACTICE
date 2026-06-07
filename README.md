@@ -213,6 +213,56 @@ SC:O(1)
 finally done with rotation of arrays 
 right rotate array by D places
 
+## Day 27-Arrays
+Left rotate array by D places ✅
+Brute ✅ TC:O(N+D)
+          SC : O(N)
+Optimal ✅ TC: O(2N)
+            SC: O(1)
+Right rotate array by D places ✅
+Brute ✅
+Optimal ✅
+TC:O(N+D)
+SC:O(1)
+
+learned about reverse function ✅
+
+Move Zeroes to end of the array ✅
+Brute ✅
+TC:O(2N)
+SC:O(N)
+Optimal ✅
+TC:O(N)
+SC:O(1)
+
+Linear search ✅
+TC:O(N)
+SC:O(1)
+
+Union of two sorted arrays  ✅
+Brute  ✅
+TC:O(N1+N2)
+SC:O(N1+N2)
+
+Optimal  ✅
+using two pointers ✅
+TC:O(N1+N2)
+SC:O(N1+N2)
+
+Intersection of two sorted arrays
+Brute ✅
+TC:O(N1*N2)
+SC:O(N1*N2)
+Optimal ✅
+TC:O(N1+N2)
+SC:O(1)
+
+
+
+
+
+
+
 
 
 
