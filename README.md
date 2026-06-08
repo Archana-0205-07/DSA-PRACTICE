@@ -257,6 +257,11 @@ Optimal ✅
 TC:O(N1+N2)
 SC:O(1)
 
+## Day 28-Arrays
+Find mising element 
+Max consecutive 1's
+Find the number appears once in twice array
+
 
 
 
