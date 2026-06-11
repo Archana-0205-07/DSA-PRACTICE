@@ -276,6 +276,11 @@ need to revise again
 ## Day 29-Arrays
 revision ✅
 
+## Day 30-Arrays
+done nothing but consistent 
+proof of 30 days ✅
+solved a leetcode problem✅
+
 
 
 
