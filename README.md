@@ -282,6 +282,10 @@ building discipline✅
 proof of 30 days ✅
 solved a leetcode problem✅
 
+## Day 31-Arrays
+will be consistent from tomorrow 
+restart
+
 
 
 
