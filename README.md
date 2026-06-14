@@ -286,6 +286,13 @@ solved a leetcode problem✅
 will be consistent from tomorrow 
 restart
 
+## Day 32-Arrays
+tried to be consistent honestly 
+revised linear searching in arrays
+arr.length is a property
+string.length() is a method
+
+
 
 
 
