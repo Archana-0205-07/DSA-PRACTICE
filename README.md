@@ -292,6 +292,8 @@ revised linear searching in arrays
 arr.length is a property
 string.length() is a method
 
+## Day 33-Arrays
+building strong basic arrays
 
 
 
