@@ -303,6 +303,9 @@ Counting Pattern✅
 Two Pointer Pattern✅
 Rotation Pattern✅
 
+## Day 35-Arrays
+
+
 
 
 
