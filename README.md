@@ -304,6 +304,8 @@ Two Pointer Pattern✅
 Rotation Pattern✅
 
 ## Day 35-Arrays
+## Day 36-Arrays
+Two pointers
 
 
 
