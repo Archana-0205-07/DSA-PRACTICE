@@ -309,6 +309,19 @@ Two pointers
 
 ## Day 37-Arrays
 
+## Day 38-Arrays
+Majority element
+Java foundations revision
+✅ JVM, JRE, JDK
+✅ First Java Program
+✅ Variables
+✅ Primitive Data Types
+✅ Type Conversion & Casting
+✅ Operators
+✅ Pre/Post Increment
+✅ Scanner Basics
+✅ Conditional statements
+
 
 
 
