@@ -322,6 +322,12 @@ Java foundations revision
 ✅ Scanner Basics
 ✅ Conditional statements
 
+## Day 39-Arrays
+Find missing number
+Maximum consecutive ones
+Find the number that appears oce and others twice
+
+
 
 
 
