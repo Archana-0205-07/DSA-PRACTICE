@@ -327,6 +327,10 @@ Find missing number
 Maximum consecutive ones
 Find the number that appears oce and others twice
 
+## Day 40-Arrays
+Prefix sum
+
+
 
 
 
