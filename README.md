@@ -331,6 +331,7 @@ Find the number that appears oce and others twice
 Prefix sum
 
 ## Day 41
+## Day 42
 
 
 
