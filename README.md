@@ -332,6 +332,9 @@ Prefix sum
 
 ## Day 41
 ## Day 42
+## Day 43
+revised prefix sum concept
+sliding window
 
 
 
