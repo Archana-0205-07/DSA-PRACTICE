@@ -336,6 +336,12 @@ Prefix sum
 revised prefix sum concept
 sliding window
 
+## Day 44
+Sliding window 
+fixed 
+variable
+Basics of recursion
+
 
 
 
