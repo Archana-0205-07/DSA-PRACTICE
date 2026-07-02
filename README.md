@@ -342,6 +342,12 @@ fixed
 variable
 Basics of recursion
 
+## Day 45
+Recursion concept
+Binary search 
+sorting:
+Bubble sorting
+
 
 
 
